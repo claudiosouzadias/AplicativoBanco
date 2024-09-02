@@ -9,7 +9,6 @@ Projeto didático em c#, com o objetivo de desenvolver um aplicativo que copie a
   # :hammer: Técnicas e tecnlogias utilizadas
 
 - `C#`
-- 
 # 🛠️ Abrir e rodar o projeto
 
 Ao baixar o arquivo você pode executa-lo com qualquer editor compativel com C#, neste projeto foi usado Visual Studio 2022.
