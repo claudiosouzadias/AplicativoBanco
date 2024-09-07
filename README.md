@@ -12,3 +12,6 @@ Projeto didático em c#, com o objetivo de desenvolver um aplicativo que copie a
 # 🛠️ Abrir e rodar o projeto
 
 Ao baixar o arquivo você pode executa-lo com qualquer editor compativel com C#, neste projeto foi usado Visual Studio 2022.
+
+![image](https://github.com/user-attachments/assets/1c4382a2-28a3-476d-ae56-f3420c15983b)   ![image](https://github.com/user-attachments/assets/ccb75a80-e906-4df1-8534-f53e2d07288d)
+
