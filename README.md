@@ -6,7 +6,7 @@
 Projeto didático em c#, com o objetivo de desenvolver um aplicativo que copie a interface basica de um banco
 <p align="center">
   
-  # :hammer: Técnicas e tecnlogias utilizadas
+  # :hammer: Técnicas e tecnologias utilizadas
 
 - `C#`
 # 🛠️ Abrir e rodar o projeto
